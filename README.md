@@ -1,7 +1,7 @@
 # Sales Overview Dashboard for Adventure Works Company
 ---
-
-![SalesDash_image](https://github.com/Icaro92/PBI_AW/assets/58118599/906d8918-bd3f-4cae-9666-69acdecb8c6c)
+<p align = "center">
+  <img src="https://github.com/Icaro92/PBI_AW/assets/58118599/906d8918-bd3f-4cae-9666-69acdecb8c6c" width="500" alt="SalesDash Image">
 
 ## Objectives
 
