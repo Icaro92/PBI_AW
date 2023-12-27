@@ -1,5 +1,8 @@
 # Sales Overview Dashboard for Adventure Works Company
 ---
+
+![SalesDash_image](https://github.com/Icaro92/PBI_AW/assets/58118599/906d8918-bd3f-4cae-9666-69acdecb8c6c)
+
 ## Objectives
 
 This dashboard's objective is to provide a clear Sales Overview of Adventure Works. Specifically, the dashboard will accurately represent the Sales Goals as well as a detailed view of top customers and most selling products by category and location.
